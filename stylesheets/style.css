@@ -1,0 +1,53 @@
+body{
+  font-family: Verdana, sans-serif;
+  text-align: center;
+  background-color: #F6F6F6;
+}
+
+h2{
+  font-size: 25px;
+  font-weight: 600;
+  font-color: #FFFFFF;
+  background-color: #E1BC29;
+}
+
+h3{
+  text-align: left;
+  text-decoration: underline;
+}
+
+p{
+  font-size: 20px;
+  font-weight: 100;
+}
+
+#spn{
+  font-size: 35px;
+  font-color: #E15554;
+}
+
+#logoimg{
+  width: 200px;
+}
+
+.CoachingList{
+  font-size: 20px;
+  font-weight: 100px;
+  text-align: left;
+  list-style-type: circle;
+}
+
+.CappedPlayer{
+  font-size: 20px;
+  text-align: left;
+  font-weight: 500px;
+}
+.Active{
+   font-style: bold;
+}
+
+.link{
+  font-color= #E15554;
+  font-size: 20px;
+  text-decoration: none;
+}
